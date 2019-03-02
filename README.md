@@ -1,2 +1,5 @@
 # Erityisopetus
-Some fiddling
+Some fiddling about Finland's educational system and how government policies have affected it.
+
+Most recent version:
+https://app.powerbi.com/view?r=eyJrIjoiMTcxZDMwOTUtZWE1OS00MzgwLWI5NTMtYzA0NjM2ZTkyNWJkIiwidCI6ImU5NjYyZDU4LWNhYTQtNGJjMS1iMTM4LWM4YjFhY2FiNWExMSIsImMiOjh9&fbclid=IwAR3OZsXa3uBAE4PHxEuLFRjh9p0QvS2wYu000N_hGCoIdNmTovq6Q_G_hnw
